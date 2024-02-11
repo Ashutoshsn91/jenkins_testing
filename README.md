@@ -1,2 +1,2 @@
-hi this is jenkins aka jenky
+hi this is jenkins
 running the second coommand
